@@ -2,7 +2,6 @@
 #### I used the 'iris' dataset provided from Scikit-Learn to classify which iris species each data corresponds to.
 
 ## KNN (K-Nearest Neighbor)
-- classification
 - instance-base learning
   - learns the training examples by heart and then generalizes to new instances based on some similarity measure
   - builds the hypotheses from the training instances (builds a database of previous observations)
